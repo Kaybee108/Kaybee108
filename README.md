@@ -27,6 +27,5 @@ Interests
 - Project management methodologies (Agile, Scrum)
 
 Goals
-
 - Pursue a career in project management and networking.
 - Develop expertise in network security and cloud computing.
