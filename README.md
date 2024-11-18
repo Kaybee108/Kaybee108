@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Kaybee108/Kaybee108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Hi, I'm Karabo Modise, a final year IT student passionate about Project Management and Networking. I'm eager to apply my skills in real-world scenarios.
 
 Technical Skills
